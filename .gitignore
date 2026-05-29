@@ -1,0 +1,7 @@
+# Local runtime
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
